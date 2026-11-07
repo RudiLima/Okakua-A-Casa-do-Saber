@@ -2,6 +2,32 @@
 
 O Okakua é um sistema portátil para catalogação de livros, cadastro de pessoas e controle de empréstimos. O aplicativo é um HTML independente e guarda os dados em um arquivo JSON escolhido pelo usuário no pendrive.
 
+## Capturas de tela
+
+### Login
+
+![Tela de login do Okakua](docs/screenshots/Okakua_Tela_Login.png)
+
+### Início e alertas de devolução
+
+![Tela inicial do Okakua com alertas e visão geral](docs/screenshots/Okakua_Tela_inicio.png)
+
+### Acervo
+
+![Catálogo do acervo e opções de importação e exportação](docs/screenshots/Okakua_Tela_Acervo.png)
+
+### Pessoas
+
+![Cadastro de pessoas](docs/screenshots/Okakua_Tela_Pessoas.png)
+
+### Empréstimos
+
+![Controle de empréstimos e devoluções](docs/screenshots/Okakua_Tela_Emprestimos.png)
+
+### Configurações
+
+![Identidade visual, arquivo de dados e usuários](docs/screenshots/Okakua_Tela_Configuracoes.png)
+
 ## Versões incluídas
 
 - **Windows:** entre em `Windows` e execute `Instalar_Okakua.bat`. O instalador copia o aplicativo para o pendrive e cria um atalho na Área de Trabalho que aponta para os arquivos do próprio pendrive.
