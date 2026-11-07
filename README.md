@@ -1,6 +1,14 @@
+<p align="center"><img src="assets/LogoOkakua.webp" alt="Okakua — Biblioteca escolar, acervo e empréstimo gratuito" width="560"></p>
+
 # Okakua — Biblioteca portátil
 
 O Okakua é um sistema portátil para catalogação de livros, cadastro de pessoas e controle de empréstimos. O aplicativo é um HTML independente e guarda os dados em um arquivo JSON escolhido pelo usuário no pendrive.
+
+## História do nome e da marca
+
+Okakua foi pensado para representar **“A Casa do Saber”**. Na narrativa da marca, *Oka* remete a casa e acolhimento, e *Kua* a saber e conhecer. A ideia é fazer da biblioteca um espaço próximo da comunidade, onde o conhecimento está ao alcance de todos.
+
+O símbolo reúne uma casa e um livro aberto: o livro é a base do aprendizado; o broto representa ideias que crescem. O verde remete à natureza e à esperança, o terracota ao acolhimento e à comunidade, e o dourado à inspiração.
 
 ## Capturas de tela
 
@@ -55,3 +63,6 @@ Windows, Linux ou ChromeOS com Microsoft Edge, Google Chrome ou Chromium compat�
 ## Licença
 
 A licença de distribuição ainda não foi definida.
+
+
+
